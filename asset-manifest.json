@@ -1,12 +1,17 @@
 {
-  "main.css": "static/css/main.3fefc1f0.css",
-  "main.css.map": "static/css/main.3fefc1f0.css.map",
-  "main.js": "static/js/main.efaf95e2.js",
-  "main.js.map": "static/js/main.efaf95e2.js.map",
-  "static/media/SpaceMono-Bold.ttf": "static/media/SpaceMono-Bold.6202525e.ttf",
-  "static/media/SpaceMono-Regular.ttf": "static/media/SpaceMono-Regular.49a79d66.ttf",
-  "static/media/grid.png": "static/media/grid.02502224.png",
-  "static/media/logo.svg": "static/media/logo.371495bb.svg",
-  "static/media/menu.svg": "static/media/menu.c4f3c4f0.svg",
-  "static/media/skip-chat-button.svg": "static/media/skip-chat-button.a958cc26.svg"
+  "main.css": "static/css/main.3869f81e.css",
+  "main.css.map": "static/css/main.3869f81e.css.map",
+  "main.js": "static/js/main.25b1c4c2.js",
+  "main.js.map": "static/js/main.25b1c4c2.js.map",
+  "static/media/background-sound.mp3": "static/media/background-sound.0626cec2.mp3",
+  "static/media/bg-spin.mp4": "static/media/bg-spin.4382eb8e.mp4",
+  "static/media/bg-spin.webm": "static/media/bg-spin.594b18c2.webm",
+  "static/media/button-left-border.svg": "static/media/button-left-border.0b885747.svg",
+  "static/media/button-right-border.svg": "static/media/button-right-border.99819741.svg",
+  "static/media/default-thumb.png": "static/media/default-thumb.b61f96d4.png",
+  "static/media/eq.gif": "static/media/eq.f5b8f59c.gif",
+  "static/media/muted.svg": "static/media/muted.1055fa6c.svg",
+  "static/media/slider-next-button.svg": "static/media/slider-next-button.35e25ee4.svg",
+  "static/media/slider-prev-button.svg": "static/media/slider-prev-button.16ebb8d2.svg",
+  "static/media/sto-avatar.png": "static/media/sto-avatar.7a366b1c.png"
 }
