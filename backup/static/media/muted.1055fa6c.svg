@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="24px" viewBox="0 0 26 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>music pause</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="music-pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="music" transform="translate(2.000000, 10.000000)" fill="#FFFFFF">
+            <rect id="Rectangle-4" x="0" y="0" width="2" height="4" rx="1"></rect>
+            <rect id="Rectangle-4-Copy" x="7" y="0" width="2" height="4" rx="1"></rect>
+            <rect id="Rectangle-4-Copy-2" x="14" y="0" width="2" height="4" rx="1"></rect>
+            <rect id="Rectangle-4-Copy-3" x="21" y="0" width="2" height="4" rx="1"></rect>
+        </g>
+    </g>
+</svg>
