@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="60px" viewBox="0 0 64 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>close icon@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="close-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="close-circular-button-of-a-cross" transform="translate(5.000000, 3.000000)">
+            <g id="icon" transform="translate(27.000000, 27.000000) rotate(-270.000000) translate(-27.000000, -27.000000) translate(-0.000000, 0.000000)">
+                <g id="Group-2" transform="translate(-0.000000, 0.000000)">
+                    <path d="M26.7730163,46.0587306 C37.4242222,46.0587306 46.0587306,37.4242222 46.0587306,26.7730163 C46.0587306,16.1218104 37.4242222,7.48730204 26.7730163,7.48730204 C16.1218104,7.48730204 7.48730204,16.1218104 7.48730204,26.7730163 C7.48730204,37.4242222 16.1218104,46.0587306 26.7730163,46.0587306 Z" id="Oval-Copy-4" stroke="#02A0A7" stroke-width="2" stroke-dasharray="20,9999" transform="translate(26.773016, 26.773016) rotate(-214.000000) translate(-26.773016, -26.773016) "></path>
+                    <path d="M26.7730163,46.0587306 C37.4242222,46.0587306 46.0587306,37.4242222 46.0587306,26.7730163 C46.0587306,16.1218104 37.4242222,7.48730204 26.7730163,7.48730204 C16.1218104,7.48730204 7.48730204,16.1218104 7.48730204,26.7730163 C7.48730204,37.4242222 16.1218104,46.0587306 26.7730163,46.0587306 Z" id="Oval-Copy-2" stroke="#02A0A7" stroke-width="2" stroke-dasharray="40,9999" transform="translate(26.773016, 26.773016) rotate(-6.000000) translate(-26.773016, -26.773016) "></path>
+                    <g id="close-icon" transform="translate(18.000000, 18.000000)" fill="#D8D8D8" fill-rule="nonzero">
+                        <path d="M9,8.05263158 L17.0526316,1.77635684e-15 L18,0.947368421 L9.94736842,9 L18,17.0526316 L17.0526316,18 L9,9.94736842 L0.947368421,18 L-1.13686838e-13,17.0526316 L8.05263158,9 L-1.11910481e-13,0.947368421 L0.947368421,-4.4408921e-16 L9,8.05263158 Z" id="Combined-Shape"></path>
+                    </g>
+                    <path d="M27,50.1428571 C39.7814471,50.1428571 50.1428571,39.7814471 50.1428571,27 C50.1428571,14.2185529 39.7814471,3.85714286 27,3.85714286 C14.2185529,3.85714286 3.85714286,14.2185529 3.85714286,27 C3.85714286,39.7814471 14.2185529,50.1428571 27,50.1428571 Z" id="Path-Copy" stroke="#FFFFFF" opacity="0.719999969" stroke-dasharray="1" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
