@@ -25,11 +25,23 @@ This document outlines the systematic approach to fix SSL certificate issues for
 - **Fix Applied**: Updated to `https://svstoyanov.com`
 - **Impact**: Prevents mixed content when copying website URL
 
-#### 4. Social Media Sharing (FIXED)
+#### 4. Facebook Social Media Sharing (FIXED)
 - **Issue**: Facebook sharer URL contained URL-encoded HTTP reference
 - **Location**: `src.65560757.js` (minified JavaScript)
 - **Fix Applied**: Changed `http%3A//svstoyanov.com` to `https%3A//svstoyanov.com`
-- **Impact**: Ensures secure sharing functionality
+- **Impact**: Ensures secure Facebook sharing functionality
+
+#### 5. Twitter Social Media Sharing (FIXED)
+- **Issue**: Twitter sharing URL contained HTTP reference in status message
+- **Location**: `src.65560757.js` social sharing options
+- **Fix Applied**: Changed `http%3A//svstoyanov.com` to `https%3A//svstoyanov.com` in Twitter status
+- **Impact**: Prevents mixed content warnings when sharing on Twitter
+
+#### 6. LinkedIn Social Media Sharing (FIXED)
+- **Issue**: LinkedIn sharing URL contained HTTP reference in URL parameter
+- **Location**: `src.65560757.js` social sharing options
+- **Fix Applied**: Changed `http%3A//svstoyanov.com` to `https%3A//svstoyanov.com` in LinkedIn URL
+- **Impact**: Ensures secure sharing on LinkedIn platform
 
 ### 🔍 AREAS TO VERIFY
 
